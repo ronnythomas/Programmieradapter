@@ -37,6 +37,8 @@ Bestückt mit allen SMD Teilen
 meine Konfiguration 
 ![complete](image/3.jpg)
 
+![complete](image/5.jpg)
+
 
 ![complete](image/4.jpg)
 
