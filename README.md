@@ -1,6 +1,6 @@
 # Programmieradapter für Arduino Pro Mini und ATMEGA328P-AU
 ## benötigte Hardware
- * 1x TJ1117GS-3.3 
+ * 1x TJ1117GS-3.3 oder AMS1117-3.3
  * 2x Kondensator 100nF **0805**
  * 1x Kondensator 100nF **0805** **wer den 328p-au Programmieren will**
  * 3x Widerstand 330Ohm **0805**
