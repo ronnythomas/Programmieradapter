@@ -13,7 +13,7 @@
  * div. Buchsenleisten / Stiftleisten ja nach bedarf
  * 1x [TQFP32 ZU DIP32 IC Programmer Adapter](https://de.aliexpress.com/item/33016795151.html?spm=a2g0s.9042311.0.0.77e64c4dPMrUan) **wer den 328p-au Programmieren will**  
 
-Mit dieser Adapterplatine könnt ihr ziemlich einfach euere Arduino Pro Mini mit Bootloader / Fuse Bits beschreiben. Als ISP dient ein Arduino Nano mit dem Standart ISP Sketch aus der Arduino Software.
+Mit dieser Adapterplatine könnt ihr ziemlich einfach euere Arduino Pro Mini mit Bootloader / Fuse Bits beschreiben. Als ISP dient ein Arduino Nano mit dem [Standart ISP Sketch](http://blog.bubux.de/arduino-als-avr-isp-zum-brennen-des-bootloader/) aus der Arduino Software.
 Die ISP Pins sind auch zusätzlich nach aussen gelegt wer einen anderen ISP nutzen will. Der Platz für ein FDTI Adapter ist oben rechts, auch dieser ist mit beiden ICs verbunden. Extra wurden die FDTI pins nach aussen geführt.
 Das Funkmodul CC1101 findet unten rechts sein Platz. Das Arduino Pinout unten bezieht sich nur auf den atmega328p-au für development zwecke.
 Die ganze Platine arbeitet mit 5V, diese wird über den Spannungsregler auf stablile 3,3V runtergeregelt und versorgt die bzw. den IC. 
